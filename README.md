@@ -16,7 +16,7 @@ every animal has such ability. There are several issues and we hope you'd solve 
   * Show us you power
 * Push into a repository
 * Create a Pull Request
-* Wait until our CI commit into your branch a new file with new instructions
+* Wait until our CI commit into your branch a new file with new instructions (in progress, hasn't been done yet)
 
 ## Nice to have in result code
 
