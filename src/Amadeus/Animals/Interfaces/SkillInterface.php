@@ -14,7 +14,7 @@ interface SkillInterface
     public function getSkillName();
 
     /**
-     * @param array ...$arguments
+     * @param array $arguments
      *
      * @return mixed
      */
